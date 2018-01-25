@@ -1,0 +1,16 @@
+.wishlist-component {
+    border: 1px solid #000;
+}
+.shopping-cart-component {
+    border: 1px solid #000;
+}
+
+.wishlist-component .cart-list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.wishlist-component .cart-list .cart-item {
+    margin: 1rem;
+}

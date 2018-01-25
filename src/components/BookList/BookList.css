@@ -1,0 +1,18 @@
+.booklist-component {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.booklist-component .books {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    margin: 1rem;
+}
+
+.booklist-component .summary {
+    display: flex;
+    justify-content: flex-start;
+}
