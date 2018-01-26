@@ -2,7 +2,7 @@
   "name": "react-mobx-shopping-cart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "react-mobx-shopping-cart",
+  "homepage": "./",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
